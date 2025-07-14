@@ -14,7 +14,7 @@ A responsive and modern front-end e-commerce website built using **HTML**, **CSS
 - Footer with company info, quick links, social media icons, and app download options
 
 ## Website link
-https://sunitabrm212.github.io/Ecommerce/
+https://sunitabrm212.github.io/Cara/
 
 ## Project Structure
 
