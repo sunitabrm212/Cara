@@ -15,3 +15,24 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+// image 
+
+const mainImage = document.querySelector("#main-img");
+const smallImage = document.querySelectorAll(".sm-image");
+
+smallImage[0].addEventListener("click", () => {
+    mainImage.src = smallImage[0].src;
+});
+
+smallImage[1].addEventListener("click", () => {
+    mainImage.src = smallImage[1].src;
+});
+
+smallImage[2].addEventListener("click", () => {
+    mainImage.src = smallImage[2].src;
+});
+
+smallImage[3].addEventListener("click", () => {
+    mainImage.src = smallImage[3].src;
+});
